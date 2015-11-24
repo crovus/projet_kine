@@ -1,7 +1,7 @@
 Techno Utiles Projet M1 Kiné
 
-HTML 
-PHP 5.5.12
+HTML version 5
+PHP version 5.5.12
 Apache version 2.4.9
 MySQL version 5.6.17
 Javascript
